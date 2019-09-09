@@ -11,7 +11,7 @@ REQUIRED_PACKAGES = [
     'gensim==3.6.0',
     'networkx==2.1',
     'joblib==0.13.0',
-    'fastdtw==0.3.2',
+    'fastdtw==0.2.0',
     'tqdm',
     'numpy',
     'scikit-learn',
